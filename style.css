@@ -221,3 +221,148 @@ h3 {
 .col-sx i {
     font-size: 50px;
 }
+
+/* -------------------------------------------------------------- */
+
+#container-piano {
+    padding: 200px 0 0 0;
+}
+
+.fake {
+    margin-top: 40px;
+}
+
+.circle {
+    padding: 0px 10px;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    margin-right: 5px;
+}
+
+.circle-blu {
+    box-shadow: inset 0px 0px 0px 5px #000BFF;
+}
+
+.fake-text {
+    margin-right: 20px;
+}
+
+.col-piano {
+    width: calc((100% / 3) - 40px);
+    min-height: 1000px;
+    margin: 50px 0px 0 0px;
+    border: 1px solid lightgrey;
+    float: left;
+}
+
+.col-piano-center {
+    width: calc((100% / 3) - 40px);
+    min-height: 1000px;
+    margin: 50px 60px 0;
+    border: 1px solid lightgrey;
+    float: left;
+}
+
+.titolo-business {
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid lightgray;
+}
+
+.text-piano {
+    margin-top: 30px;
+}
+
+.costo-piano {
+    margin: 20px 0 50px 0;
+}
+
+.costo-piano p:first-child {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.costo-piano p:last-child {
+    color: lightgray;
+}
+
+.offerte-piano {
+    margin-bottom: 30px;
+}
+
+.offerte-piano li {
+    margin-bottom: 20px;
+}
+
+.prova-piano {
+    background-color: #0161ff;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.prova-piano a {
+    color: white;
+}
+
+.text-piano > p {
+    margin-bottom: 20px;
+}
+
+.text-piano > p > a {
+    text-decoration: underline;
+    color: blue;
+}
+
+.line {
+    width: 50px;
+    border-bottom: 1px solid lightgray;
+    margin: 40px 0 60px;
+}
+
+.vantaggi-piano ul {
+    list-style: none;
+}
+
+.vantaggi-piano ul li {
+    margin-bottom: 20px;
+}
+
+.fa-check {
+    color: blue;
+}
+
+.container-piano2 {
+    margin-top: 60px;
+    border: 1px solid lightgray;
+}
+
+.text-team {
+    width: 70%;
+    float: left;
+    padding-bottom: 40px;
+}
+
+.text-team h3,
+.text-partners h3 {
+    margin-top: 30px;
+}
+
+.text-team h4 {
+    padding: 20px 0 30px;
+    font-weight: 700;
+}
+
+.text-team2 {
+    width: 30%;
+    float: right;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.text-team2 a {
+    color: white;
+}
+
+/* -------------------------------------------------------------- */
