@@ -12,6 +12,8 @@ html {
     scroll-behavior: smooth;
 }
 
+/* -------------------------------------------------------------- */
+
 header {
     position: fixed;
     top: 0;
@@ -41,3 +43,77 @@ a:hover {
     background-color: #0161FF;
     padding: 10px 20px;
 }
+
+.w-70 {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.w-80 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.w-90 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.col {
+    float: left;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.green {
+    background-color: #a2d39b;
+}
+
+.brown {
+    background-color: #61082b;
+}
+
+.blue {
+    background-color: #0093ce;
+}
+
+.red {
+    background-color: #ff1d1d;
+}
+
+.darkred {
+    background-color: #d5001e;
+}
+
+.lightblue {
+    background-color: #b4d0e7;
+}
+
+.darkblue {
+    background-color: #0d2481;
+}
+
+.yellow {
+    background-color: #ffd830;
+}
+
+/* -------------------------------------------------------------- */
+
