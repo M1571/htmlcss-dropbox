@@ -160,3 +160,64 @@ h3 {
 }
 
 /* -------------------------------------------------------------- */
+
+.jumbotron {
+    width: 100%;
+    height: 800px;
+}
+
+#container-jumbo {
+    margin-top: 80px;
+    padding: 60px 0 0 0;
+}
+
+#container-jumbo h1 {
+    font-size: 80px;
+}   
+
+#row-jumbo {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.col-dx {
+    width: 70%;
+}
+
+.col-dx img {
+    max-width: 100%;
+    height: 550px;
+}
+
+.col-sx {
+    width: 30%;
+}
+
+.info-jumbo {
+    margin: 40px 0;
+}
+
+.info-jumbo span {
+    display: block;
+}
+
+.col-sx span a {
+    color: white;
+}
+
+.col-sx span:last-child {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.fa-arrow-down {
+    color: black;
+}
+
+.col-sx p {
+    margin-bottom: 20px;
+}
+
+.col-sx i {
+    font-size: 50px;
+}
