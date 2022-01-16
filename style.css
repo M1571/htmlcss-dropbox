@@ -366,3 +366,28 @@ h3 {
 }
 
 /* -------------------------------------------------------------- */
+
+.img-partners {
+    width: 55%;
+}
+
+.img-partners img {
+    max-width: 100%;
+}
+
+.text-partners {
+    width: calc(45% - 10%);
+    margin-left: 10%;
+}
+
+.text-partners p {
+    padding-top: 30px;
+}
+
+.text-partners p a{
+    color: black;
+    background-color: #fff;
+    border: 1px solid black;
+}
+
+/* -------------------------------------------------------------- */
